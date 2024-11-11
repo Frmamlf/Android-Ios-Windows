@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="images/apple.jpg" alt="Material You">
+  <img src="Photos/apple.jpg" alt="The photo">
 </p>
