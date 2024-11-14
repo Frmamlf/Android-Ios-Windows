@@ -57,6 +57,6 @@ All right, people, let's start at the beginning one last time. My name is Fares,
 ---
 <br>
 <div align="center"> 
-<p>Leaving? <img src="Photos/Broken Heart.png" alt="Broken heart"> Se you </p>
+<p>Leaving? <img src="Photos/Broken Heart.png" alt="Broken heart" width="25" height="25" /> Se you </p>
  </div>
 <br>
