@@ -10,3 +10,28 @@
 <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 
 
+
+```
+
+
+███████╗██████╗ 
+██╔════╝██╔══██╗
+█████╗  ██████╔╝
+██╔══╝  ██╔══██╗  
+╚═╝     ╚═╝  ╚═╝
+
+
+
+
+
+
+
+
+
+
+---
+follow my online adventures : https://instagram.com/onemohrtimedesign/
+                            : https://dribbble.com/OneMohrTime/
+                            : https://grandrapidsbranding.co/
+                            : https://github.com/OneMohrTime/
+```
