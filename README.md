@@ -29,7 +29,7 @@
 
 <a href="https://www.instagram.com/frmamlf">
     <img src="Media/Badge/Insta.svg" alt="Insta">
-<a href="mailto:Frmamlf@gmail.com">
+<a href="mailto:frmamlf@gmail.com?subject=Hello&body=How are you?">Send email</a>
     <img src="Media/Badge/Gmail.svg" alt="Gmail">
 
 ---
