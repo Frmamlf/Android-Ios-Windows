@@ -7,8 +7,8 @@
 </p>
 
 ---
-<p align="Left">
-<a href="In case you have any suggestion">
+<h1 align="center">In case you have any suggestion </h1>
+
 
 <p align="Center">
   <a href="https://t.me/whosthefr">
