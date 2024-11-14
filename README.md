@@ -17,7 +17,7 @@
 </p>
 
 ---
-## 📜 Contents
+## 📜 Go find it
 - [📱 Android](#-android)
 
 - [🍎 Apple](#-apple)
