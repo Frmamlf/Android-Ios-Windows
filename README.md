@@ -15,8 +15,8 @@
 
 ---
 ## 📜 Contents
-- 📱 [Android] (#-Android)
+- [📱 Android] (#-android)
 
 
-### Android
+### 📱 Android
 
