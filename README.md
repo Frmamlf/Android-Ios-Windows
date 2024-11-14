@@ -22,12 +22,11 @@ All right, people, let's start at the beginning one last time. My name is Fares,
 ---
 <br>
 <div align="center">
-<p>Thank you for visiting my profile, please leave something in my guestbook 👇 :</p>
+<p>, please leave something in my guestbook 👇 :</p>
  <a href="https://github.com/frmamlf/Android-Ios-Windows/issues"><img src="Photos/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
 </div>
-
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Frmamlf&label=Profile%20views&color=0e75b6&style=flat" alt="Frmamlf" /> </p>
+
 
 
 
