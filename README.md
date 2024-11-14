@@ -21,6 +21,6 @@
 
 ---
 ### 📱 Android
-r
+y
 ### 🍎 Apple
 
