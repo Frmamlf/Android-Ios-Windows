@@ -9,11 +9,13 @@
 ```
 All right, people, let's start at the beginning one last time. My name is Fares, I study agriculture <img src="Photos/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University
 
-### <img src="Photos/Skull.png" alt="keepintouch" width="25" height="25" /> Sometimes i love working on (I said sometimes):
-![AE](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects3.svg)
+### <img src="Photos/Skull.png" alt="keepintouch" width="25" height="25" /> I can work on :
+![pre](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere3.svg)
 ![Illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
 ![PS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg)
-![pre](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere3.svg)
+![AE](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects3.svg)
+
+
 ---
  ### <img src="Photos/Man Technologist Light Skin Tone.png" alt="Man Technologist" width="25" height="25" /> I'm currently learning :
 <a href="https://roadmap.sh/u/frmamlf">
