@@ -33,7 +33,7 @@
 </p>
 
 ---
-### <img src="Media/Emoji/IDE.webp" alt="keepintouch" width="25" height="25" /> My IDE/Editor :
+### <img src="Photos/Desktop Computer.png" alt="keepintouch" width="20" height="20" /> My IDE/Editor :
 ![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 ---
