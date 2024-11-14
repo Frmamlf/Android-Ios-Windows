@@ -8,6 +8,8 @@
 
 ---
 <p align="Center">
+<a href="In case you have any suggestion">
+<p align="Center">
   <a href="https://t.me/whosthefr">
     <img src=Photos/Tele.png alt="Telegram" width="50" height="50"
  </a>
