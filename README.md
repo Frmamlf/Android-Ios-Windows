@@ -6,7 +6,6 @@
   <img src="Photos/Photo.png" alt="The photo">
 </p>
 
->>>>>>> 4c0f3183c3b72a5c28723c9d37e90e7d43225108
 <p align="Center">
   <a href="https://t.me/whosthefr">
     <img src=Photos/Tele.png alt="Telegram" width="50" height="50"
