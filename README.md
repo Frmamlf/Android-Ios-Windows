@@ -46,7 +46,7 @@ All right, people, let's start at the beginning one last time. My name is Fares,
 ---
 <br>
 <div align="center">
-### Leaving? <img src="Photos/Broken Heart.png" alt="Broken heart" width="25" height="25"> <img src="Photos/Backhand Index Pointing Down Light Skin Tone.png" alt="Hand" width="25" height="25" /> :
+<p>Leaving<img src="Photos/Broken Heart.png" alt="Broken heart" width="25" height="25"> ? <img src="Photos/Backhand Index Pointing Down Light Skin Tone.png" alt="Hand" width="25" height="25" /> :</p>
  <a href="https://github.com/frmamlf/Android-Ios-Windows/issues"><img src="Photos/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
 </div>
 <br>
