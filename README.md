@@ -22,10 +22,12 @@ All right, people, let's start at the beginning one last time. My name is Fares,
 ---
  ### <img src="Photos/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support
 <a href="https://roadmap.sh/u/frmamlf">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg" alt="Flutter">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg" alt="BMC">
 
 
+<a href="https://www.buymeacoffee.com/frmamlfb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="frmamlfb" data-color="#ffdd00" data-emoji=""  data-font="Arial" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ---
 <br>
