@@ -19,6 +19,13 @@ All right, people, let's start at the beginning one last time. My name is Fares,
   </a>
 </p>
 
+
+ ### <img src="Photos/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support
+
+
+
+
+
 ---
 <br>
 <div align="center">
