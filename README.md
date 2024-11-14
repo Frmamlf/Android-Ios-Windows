@@ -21,18 +21,12 @@
     <img src="Media/Badge/Linkedin.svg" alt="Linkedin">
 <a href="https://x.com/frmamlf">
     <img src="Media/Badge/X.svg" alt="X">
-
  <a href="https://www.reddit.com/user/frmamlf/">
     <img src="Media/Badge/Reddit.svg" alt="Reddit">
-
 <a href="https://t.me/frmamlf">
     <img src="Media/Badge/Tele.svg" alt="tele">
-
 <a href="https://www.instagram.com/frmamlf">
     <img src="Media/Badge/Insta.svg" alt="Insta">
-
-    
-
 ---
 ### <img src="Media/Emoji/Skull.png" alt="keepintouch" width="25" height="25" /> I can work on :
 ![pre](Media/Badge/premiere3.svg)
