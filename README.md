@@ -37,6 +37,7 @@
 ![Illustrator](Media/Badge/Ill.svg)
 ![PS](Media/Badge/photoshop3.svg)
 ![AE](Media/Badge/AE.svg)
+![Figma](Media/Badge/Figma.svg)
 
 ---
  ### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
