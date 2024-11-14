@@ -14,8 +14,6 @@ All right, people, let's start at the beginning one last time. My name is Fares,
 ![Illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
 ![PS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg)
 ![AE](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects3.svg)
-
-
 ---
  ### <img src="Photos/Man Technologist Light Skin Tone.png" alt="Man Technologist" width="25" height="25" /> I'm currently learning :
 <a href="https://roadmap.sh/u/frmamlf">
@@ -27,6 +25,9 @@ All right, people, let's start at the beginning one last time. My name is Fares,
   </a>
 </p>
 
+---
+### <img src="Photos/Desktop Computer.png" alt="keepintouch" width="25" height="25" /> My idle :
+![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 ---
  ### <img src="Photos/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support :
 <a href="https://buymeacoffee.com/frmamlf">
