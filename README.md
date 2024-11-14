@@ -1,4 +1,4 @@
-# Web Developer, Graphic Designer, Creative Something-something
+# Front-End Dev, Graphic Designer, Creative Something-something
 
 ```
 ███████╗██████╗ 
@@ -13,7 +13,6 @@
 ![python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 
 ---
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 
 
 
