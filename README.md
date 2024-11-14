@@ -2,7 +2,7 @@
 
 ```
 ███████╗██████╗ 
-██╔════╝██╔══██╗
+██╔════╝██╔══██╗                         u know who i am
 █████╗  ██████╔╝
 ██╔══╝  ██╔══██╗  
 ╚═╝     ╚═╝  ╚═╝
@@ -12,12 +12,5 @@
 ![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg)
 ![python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 
-
-
-███████╗██████╗ 
-██╔════╝██╔══██╗
-█████╗  ██████╔╝
-██╔══╝  ██╔══██╗  
-╚═╝     ╚═╝  ╚═╝
 
 
