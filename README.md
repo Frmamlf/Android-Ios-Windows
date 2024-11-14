@@ -10,9 +10,12 @@
 <a href="https://youtu.be/LRspFpixPnI?si=mBausWSxJjzOVRED&t=58">All right, people, let's start at the beginning one last time.</a> My name is **Fares**, I study agriculture <img src="Photos/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University
 
 ---
-### <img src="Photos/Hole.png" alt="keepintouch" width="25" height="25" /> **Who's The FR?** :
+### <img src="Media/Emoji/Hole.png" alt="keepintouch" width="25" height="25" /> **Who's The FR?** :
 <a href="https://frmamlf.github.io/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="PF">
+
+---
+### <img src="Media/Emoji/Love Letter.png" alt="keepintouch" width="25" height="25" /> **Get to know me** :
 
 ---
 ### <img src="Photos/Skull.png" alt="keepintouch" width="25" height="25" /> **I can work on** :
