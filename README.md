@@ -23,4 +23,7 @@ follow my online adventures : https://instagram.com/onemohrtimedesign/
                             : https://dribbble.com/OneMohrTime/
                             : https://grandrapidsbranding.co/
                             : https://github.com/OneMohrTime/
+                            ![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg)
+![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg)
+![python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 ```
