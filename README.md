@@ -35,6 +35,7 @@ All right, people, let's start at the beginning one last time. My name is Fares,
 ---
 ### <img src="Photos/Desktop Computer.png" alt="keepintouch" width="25" height="25" /> My IDE/Editor :
 ![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+
 ---
  ### <img src="Photos/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support :
 <a href="https://buymeacoffee.com/frmamlf">
