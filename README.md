@@ -9,7 +9,9 @@
 ```
 All right, people, let's start at the beginning one last time. My name is Fares, I study agriculture <img src="Photos/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University
 
- ### <img src="Photos/Man Technologist Light Skin Tone.png" alt="Man Technologist" width="25" height="25" /> I'm currently learning
+### <img src="Photos/Skull.png" alt="keepintouch" width="25" height="25" /> Sometimes i love working on (I said sometimes):
+
+ ### <img src="Photos/Man Technologist Light Skin Tone.png" alt="Man Technologist" width="25" height="25" /> I'm currently learning :
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg" alt="Flutter">
 <a href="https://roadmap.sh/u/frmamlf">
@@ -20,7 +22,7 @@ All right, people, let's start at the beginning one last time. My name is Fares,
 </p>
 
 ---
- ### <img src="Photos/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support
+ ### <img src="Photos/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support :
 <a href="https://buymeacoffee.com/frmamlf">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg" alt="BMC">
 
