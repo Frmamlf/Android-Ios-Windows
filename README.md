@@ -1,3 +1,4 @@
+# Front-End Dev, Graphic Designer, Creative Something-something
 
 ```
 ███████╗██████╗ 
@@ -6,7 +7,6 @@
 ██╔══╝  ██╔══██╗                                               lemme tell u
 ╚═╝     ╚═╝  ╚═╝
 ```
-# Front-End Dev, Graphic Designer, Creative Something-something
 All right, people, let's start at the beginning one last time. My name is Fares, I study agriculture <img src="Photos/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University
 
  ### <img src="Photos/Man Technologist Light Skin Tone.png" alt="Man Technologist" width="25" height="25" /> I'm currently learning
