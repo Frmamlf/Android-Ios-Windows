@@ -13,22 +13,11 @@
 
 ```
 
-
 ███████╗██████╗ 
 ██╔════╝██╔══██╗
 █████╗  ██████╔╝
 ██╔══╝  ██╔══██╗  
 ╚═╝     ╚═╝  ╚═╝
-
-
-
-
-
-
-
-
-
-
 ---
 follow my online adventures : https://instagram.com/onemohrtimedesign/
                             : https://dribbble.com/OneMohrTime/
