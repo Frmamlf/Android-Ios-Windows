@@ -40,7 +40,7 @@
 ![VS Code](Media/Badge/VSCode.svg)
 
 ---
- ### <img src="Photos/Growing Heart.png" alt="keepintouch" width="25" height="25" /> **Support** :
+ ### <img src="Media/Emoji/Growing Heart.png" alt="keepintouch" width="25" height="25" /> **Support** :
 <a href="https://buymeacoffee.com/frmamlf">
     <img src="Media/Badge/BMC.svg" alt="BMC">
 
