@@ -8,3 +8,21 @@
 
 ---
 <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
+
+
+## 📕 Pinned Repositories
+
+<p align="center">
+	<a href="https://github.com/amankrx/matching-engine-rs">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=matching-engine-rs&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/amankrx">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/Declutter">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Declutter&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/Health">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+</p>
