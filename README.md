@@ -47,7 +47,7 @@
 <br>
 <div align="center">
 <p>Leaving<img src="Photos/Broken Heart.png" alt="Broken heart" width="25" height="25"> ? You can be my guest <img src="Photos/Backhand Index Pointing Down Light Skin Tone.png" alt="Hand" width="25" height="25" /> :</p>
- <a href="https://github.com/frmamlf/Android-Ios-Windows/issues"><img src="Photos/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
+ <a href="https://github.com/frmamlf/frmamlf/discussions/"><img src="Photos/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
 </div>
 <br>
 
