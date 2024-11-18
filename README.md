@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Dev;Graphic+Designer;Creative+Something-Something.)](https://git.io/typing-svg)
+
+
+
 <div align="right">
 <div align="center">
 <!-- <a href="https://git.io/typing-svg"> -->
