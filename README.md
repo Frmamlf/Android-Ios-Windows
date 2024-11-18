@@ -1,9 +1,10 @@
 # Front-End Dev, Graphic Designer, Creative Something-something
 
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Dev;Graphic+Designer;Creative+Something-Something.)](https://git.io/typing-svg)
 
-hhh
+
+---
 ```
 ███████╗██████╗ 
 ██╔════╝██╔══██╗                         u know who i am
