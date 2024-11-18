@@ -2,7 +2,8 @@
 <div align="center">
 <!-- <a href="https://git.io/typing-svg"> -->
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Welcome!+%F0%9F%92%9C;Front-End+Dev;Graphic+Designer;Creative+Something+Something;" alt="Typing SVG" /></a>
-```
+
+    ```
 ███████╗██████╗ 
 ██╔════╝██╔══██╗                         u know who i am
 █████╗  ██████╔╝                                       u don't?
