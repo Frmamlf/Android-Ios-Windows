@@ -1,6 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;Graphic+Designer;Creative+Something-Something.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=25&pause=1000&color=F7C889&background=988D8100&center=true&vCenter=true&random=true&width=435&lines=Front-End+Developer;Graphic+Designer+;Creative+Something-Something+)](https://git.io/typing-svg)
 
 ###
 ```
