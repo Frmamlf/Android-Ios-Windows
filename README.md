@@ -1,12 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Dev;Graphic+Designer;Creative+Something-Something.)](https://git.io/typing-svg)
-
-
-
-<div align="right">
-<div align="center">
-<!-- <a href="https://git.io/typing-svg"> -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Frmamlf;Front-End+Dev;Graphic+Designer;Creative+Something-Something;" alt="Typing SVG" /></a>
-
+# Front-End Dev, Graphic Designer, Creative Something-something
 
 ```
 ███████╗██████╗ 
@@ -15,8 +7,7 @@
 ██╔══╝  ██╔══██╗                                               lemme tell u
 ╚═╝     ╚═╝  ╚═╝
 ```
-
-<a href="https://youtu.be/LRspFpixPnI?si=mBausWSxJjzOVRED&t=58">All right, people, let's start at the beginning one last time.</a> My name is **Fares**, I study agriculture <img src="Media/Emoji/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University 
+<a href="https://youtu.be/LRspFpixPnI?si=mBausWSxJjzOVRED&t=58">All right, people, let's start at the beginning one last time.</a> My name is **Fares**, I study agriculture <img src="Media/Emoji/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University
 
 ---
 ### <img src="Media/Emoji/Hole.png" alt="keepintouch" width="25" height="25" /> Who's The FR? :(not ready yet)
@@ -36,7 +27,6 @@
     <img src="Media/Badge/Tele.svg" alt="tele">
 <a href="https://www.instagram.com/frmamlf">
     <img src="Media/Badge/Insta.svg" alt="Insta">
-
 ---
 ### <img src="Media/Emoji/Skull.png" alt="keepintouch" width="25" height="25" /> I can work on :
 ![pre](Media/Badge/premiere3.svg)
@@ -46,22 +36,27 @@
 ![Figma](Media/Badge/Figma.svg)
 
 ---
-### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
+ ### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Flutter.svg" alt="Flutter">
+
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Py.svg" alt="Python">
+
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Dart.svg" alt="Dart">
+  </a>
+</p>
 
 ---
 ### <img src="Media/Emoji/PC.png" alt="keepintouch" width="20" height="20" /> My IDE/Editor :
 ![VS Code](Media/Badge/VSCode.svg)
 
 ---
-### <img src="Media/Emoji/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support :
+ ### <img src="Media/Emoji/Growing Heart.png" alt="keepintouch" width="25" height="25" /> **Support** :
 <a href="https://buymeacoffee.com/frmamlf">
     <img src="Media/Badge/BMC.svg" alt="BMC">
+
 <a href="https://ko-fi.com/frmamlf">
     <img src="Media/Badge/Ko-fi.svg" alt="KO-Fi">
 
