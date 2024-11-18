@@ -1,19 +1,15 @@
 <div align="right">
 <div align="center">
 <!-- <a href="https://git.io/typing-svg"> -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Welcome!+%F0%9F%92%9C;Front-End+Dev;Graphic+Designer;Creative+Something+Something;" alt="Typing SVG" /></a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Frmamlf;Front-End+Dev;Graphic+Designer;Creative+Something-Something;" alt="Typing SVG" /></a>
 
 ```
-
 ███████╗██████╗ 
-██╔════╝██╔══██╗   
-█████╗  ██████╔╝
-██╔══╝  ██╔══██╗  
+██╔════╝██╔══██╗                         u know who i am
+█████╗  ██████╔╝                                       u don't?
+██╔══╝  ██╔══██╗                                               lemme tell u
 ╚═╝     ╚═╝  ╚═╝
-
 ```
-
 <a href="https://youtu.be/LRspFpixPnI?si=mBausWSxJjzOVRED&t=58">All right, people, let's start at the beginning one last time.</a> My name is **Fares**, I study agriculture <img src="Media/Emoji/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University 
 
 ---
@@ -44,7 +40,7 @@
 ![Figma](Media/Badge/Figma.svg)
 
 ---
- ### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
+### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Flutter.svg" alt="Flutter">
 <a href="https://roadmap.sh/u/frmamlf">
@@ -57,7 +53,7 @@
 ![VS Code](Media/Badge/VSCode.svg)
 
 ---
- ### <img src="Media/Emoji/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support :
+### <img src="Media/Emoji/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support :
 <a href="https://buymeacoffee.com/frmamlf">
     <img src="Media/Badge/BMC.svg" alt="BMC">
 <a href="https://ko-fi.com/frmamlf">
@@ -70,4 +66,3 @@
  <a href="https://github.com/frmamlf/frmamlf/discussions/"><img src="Media/Emoji/GUESTBOOK.gif" alt="Guest book"></a>
 </div>
 <br>
-
