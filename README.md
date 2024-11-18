@@ -3,12 +3,15 @@
 <!-- <a href="https://git.io/typing-svg"> -->
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Welcome!+%F0%9F%92%9C;Front-End+Dev;Graphic+Designer;Creative+Something+Something;" alt="Typing SVG" /></a>
 
+
 ```
+
 ███████╗██████╗ 
-██╔════╝██╔══██╗                         u know who i am
-█████╗  ██████╔╝                                       u don't?
-██╔══╝  ██╔══██╗                                               lemme tell u
+██╔════╝██╔══██╗   u know who 
+█████╗  ██████╔╝
+██╔══╝  ██╔══██╗  
 ╚═╝     ╚═╝  ╚═╝
+
 ```
 
 <a href="https://youtu.be/LRspFpixPnI?si=mBausWSxJjzOVRED&t=58">All right, people, let's start at the beginning one last time.</a> My name is **Fares**, I study agriculture <img src="Media/Emoji/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University 
