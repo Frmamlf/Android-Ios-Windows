@@ -15,7 +15,7 @@
     <img src="Media/Badge/PF.svg" alt="PF">
 
 ---
-### <img src="Media/Emoji/Love Letter.png" alt="keepintouch" width="25" height="25" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=25&pause=1000&color=F7C889&width=435&lines=Get+to+know+me)](https://git.io/typing-svg) :
+### <img src="Media/Emoji/Love Letter.png" alt="keepintouch" width="25" height="25" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&pause=1000&color=F7C889&width=200&height=30&lines=Get+to+know+me)](https://git.io/typing-svg)  :
 <a href="mailto:frmamlf@gmail.com?subject=Hello&body=How are you?"> <img src="Media/Badge/Gmail.svg" alt="Gmail"> </a>
 <a href="https://www.linkedin.com/in/frmamlf/">
     <img src="Media/Badge/Linkedin.svg" alt="Linkedin">
@@ -39,7 +39,7 @@
 ---
  ### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
 <a href="https://roadmap.sh/u/frmamlf">
-    <img src="Media/Badge/Flutter.svg" alt="Flutter">
+    <img src="Media/Badge/Flutter.svg" alt="Flutter
 
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Py.svg" alt="Python">
